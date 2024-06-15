@@ -74,10 +74,6 @@ The machine learning model used for image classification is a pre-trained model 
 
 Contributions are welcome! Please fork the repository and submit a pull request with your proposed changes. For major changes, please open an issue to discuss what you would like to change.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Acknowledgements
 
 - [Flask](https://flask.palletsprojects.com/) - Web framework for Python
